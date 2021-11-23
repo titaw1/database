@@ -1,0 +1,111 @@
+{
+    "baju_atasan": [
+      { "id": 1,
+        "title": "Crop Outer",
+        "price": "120.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/cropOuter.png",
+        "color": "0xFFFF8A80" }
+        ,
+        {
+        "id": 2,
+        "title": "Jaket Denim Jeans",
+        "price": "133.280",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/jaketJeans.png",
+        "color": "0xFF0277BD"
+        },
+        {
+        "id": 3,
+        "title": "Jaket Parka",
+        "price": "125.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/jaketParka.png",
+        "color": "0xFF009688"
+        },
+        {
+        "id": 4,
+        "title": "Kaos lengan 3/4",
+        "price": "28.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/kaos.png",
+        "color": "0xFFD32F2F"
+        },
+        {
+        "id": 5,
+        "title": "Kaos JNSO Oversize",
+        "price": "81.150",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/kaosOversize.png",
+        "color":"0xFFFF8A65"
+        }, 
+        {
+          "id": 6,
+          "title": "Kemeja Oversize",
+          "price": "167.243",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/kemejaOversize.png",
+          "color": "0xFFCE93D8"
+        },
+        {
+          "id": 7,
+          "title": "Kemeja Salur",
+          "price": "104.400",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/kemejaSalur.png",
+          "color": "0xFF827717"
+        },
+        {
+          "id": 8,
+          "title": "Leydra Tunik",
+          "price": "50.000",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/leydraTunik.png",
+          "color": "0xFFC2185B"
+        },
+        {
+          "id": 9,
+          "title": "Livy Blouse",
+          "price": "64.999",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/livyBlouse.png",
+          "color": "0xFFD7CCC8"
+        },
+        {
+          "id": 10,
+          "title": "Long Outer Maple",
+          "price": "154.000",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/longOuter.png",
+          "color": "0xFFFF8F00"
+        },
+        {
+          "id": 11,
+          "title": "Manset Turtleneck",
+          "price": "35.000",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/manset.png",
+          "color": "0xFF4DD0E1"
+        },
+        {
+          "id": 12,
+          "title": "Vest Rajut",
+          "price": "45.000",
+          "size": 12,
+          "description": "dummyText",
+          "image": "assets/images/vestRajut.png",
+          "color": "0xFFFBE9E7"
+        }
+    ]
+  }
