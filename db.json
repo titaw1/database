@@ -217,5 +217,487 @@
         "color": "0xFF42A5F5",
         "colorType": "Lilac, Biru, Pink,\nGreentea, Peach"
       }
+    ],
+    "hijab": [
+      {
+        "id": 1,
+        "title": "Aathifah Scarf",
+        "price": "35.000",
+        "size": "200x75cm",
+        "description":
+            "Aathifah Scarf bahan babydoll. Buat daily oke, buat formal oke. Limited stock! Jangan sampai kehabisan.",
+        "image": "assets/images/aathifahScarf.png",
+        "color": "0xFFD81B60",
+        "colorType": "Caramel, Rosewood,Soft Purple, Beige, Light Grey"
+      },
+      {
+        "id": 2,
+        "title": "Aeesha Khimar",
+        "price": "45.000",
+        "size": "Depan ±75cm\nBelakang ±95cm",
+        "description":
+            "Cocok untuk yang suka dengan hijab syar'i. Karna nutup dada dan perut.  ",
+        "image": "assets/images/aeeshaKhimar.png",
+        "color": "0xFF795548",
+        "colorType": "Purple, Mustard, Lavender"
+      },
+      {
+        "id": 3,
+        "title": "Bella Square",
+        "price": "19.000",
+        "size": "115x115cm",
+        "description": "Bella Square bahan Polycotton",
+        "image": "assets/images/bellaSquare.png",
+        "color": "0xFFF8BBD0",
+        "colorType": "Terracota, Mustard, Grey,\nMilo, Matcha, Tosca"
+      },
+      {
+        "id": 4,
+        "title": "Bergo Baby",
+        "price": "23.000",
+        "size": "",
+        "description":
+            "Hijab viral satu ini kali ini hadir untuk si kecil loh bunda. Bahan yang digunakan diamond italiano. Hijab ini cocok untuk usia 1-3th. ",
+        "image": "assets/images/bergoBaby.png",
+        "color": "0xFFFF8A65",
+        "colorType": "Latte, Creamy, Yellow,\nTurkish, Rosewood"
+      },
+      {
+        "id": 5,
+        "title": "Crinkle Shawl",
+        "price": "20.000",
+        "size": "200*90cm",
+        "description":
+            "Material cotton crinkle (adem, mudah diatur, cocok untuk daily dan formal dan tak perlu disetrika). Finishing rawis",
+        "image": "assets/images/crinkleShawl.png",
+        "color": "0xFFAFB42B",
+        "colorType": "Maroon, Mustard, Bata,\nSoft Yellow, Soft Blue"
+      },
+      {
+        "id": 6,
+        "title": "Diamond Scarf",
+        "price": "22.500",
+        "size": "175*80cm",
+        "description":
+            "Finishing jahit tepi bukan necy. Bahan Diamond Italiano. Mudah diatur, tegak didahi, nyaman.",
+        "image": "assets/images/diamondScarf.png",
+        "color": "0xFFBCAAA4",
+        "colorType": "Pastel Blue, Green Bottle,\nMaroon"
+      },
+      {
+        "id": 7,
+        "title": "Jeehan Khimar",
+        "price": "39.000",
+        "size": "PD dari kepala 75cm PB 95cm",
+        "description":
+            "Bahan Diamond Italiano. 1 Layer terdapat aksen ruffle dan lace. Bisa digunakan dengan 2 style",
+        "image": "assets/images/jeehanKhimar.png",
+        "color": "0xFF827717",
+        "colorType": "Turkish, Denim, Mustard,\nPastel Pink"
+      },
+      {
+        "id": 8,
+        "title": "Khadijah Bergo",
+        "price": "90.250",
+        "size": "",
+        "description": "bergo dengan aksen ruffle, menambah kesan elegan ",
+        "image": "assets/images/khadijahBergo.png",
+        "color": "0xFFD7CCC8",
+        "colorType": "Cappucino, Lavender,\nTurkish, Creamy"
+      },
+      {
+        "id": 9,
+        "title": "Pashmina Ceruty",
+        "price": "30.000",
+        "size": "12",
+        "description": "dummyText",
+        "image": "assets/images/pashminaCeruty.png",
+        "color": "0xFFF0F4C3",
+        "colorType": ""
+      },
+      {
+        "id": 10,
+        "title": "Pashmina Plisket",
+        "price": "40.000",
+        "size": "180*75cm",
+        "description":
+            "Bahan babydoll ultimate. Hijab ini cocok sekali untuk acara yang formal maupun untuk sehari hari-hari atau traveling. Mudah diatur, tegak didahi, dan ringan dipakai.",
+        "image": "assets/images/pashminaPlisket.png",
+        "color": "0xFF4DD0E1",
+        "colorType": "Beige, Pale Pink, Grey,\nBroken White, Black"
+      },
+      {
+        "id": 11,
+        "title": "Segiempat Instan",
+        "price": "35.000",
+        "size": "115*115cm",
+        "description":
+            "Bahan Diamond Italiano. Hijab instan tanpa pentul,  tinggal slupppp jadi deh.",
+        "image": "assets/images/segiempatInstan.png",
+        "color": "0xFFFBE9E7",
+        "colorType": "Matcha, Turkish, Grey,\nSoft Purple, Denim, Caramel"
+      },
+      {
+        "id": 12,
+        "title": "Segiempat Lasercut",
+        "price": "30.000",
+        "size": "115×115cm",
+        "description": "Bahan Polycotton. Finishing lasercut.",
+        "image": "assets/images/segiempatLasercut.png",
+        "color": "0xFFC62828",
+        "colorType": "Dusty Pink, Deep Mint, Creamy,\nFrappucino, Army"
+      },
+      {
+        "id": 13,
+        "title": "Thisa Simple Ped",
+        "price": "27.000",
+        "size": "M, L",
+        "description":
+            "Bahan Diamond Italiano. Anti tembem, simple tinggal slup tanpa jarum, memiliki jahit bayangan dibagian dayu, memakai finishing jahit 2 garis.",
+        "image": "assets/images/thisaSimplePed.png",
+        "color": "0xFFB2DFDB",
+        "colorType": "Black, Denim, Navy, Mulberry,\nCreamy, Terracotta"
+      },
+      {
+        "id": 14,
+        "title": "Zareena Bergo",
+        "price": "29.900",
+        "size": "pd -+75cm pb -+85cm",
+        "description":
+            "Zareena Bergo bahan Diamond Italiano. Jahitan double 2 garis, tali kecil dan rapi, kualitas butik,",
+        "image": "assets/images/zareenaBergo.png",
+        "color": "0xFF546E7A",
+        "colorType": "Caramel, Light Grey, Latte,\nMilo, Khaki"
+      }
+    ],
+    "oneSet":[
+      {
+        "id": 1,
+        "title": "Andara Set",
+        "price": "69.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/andaraSet.png",
+        "color": "0xFF8D6E63"
+      },
+      {
+        "id": 2,
+        "title": "Aurelia Set",
+        "price": "120.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/aureliaSet.png",
+        "color": "0xFFFFEB3B"
+      },
+      {
+        "id": 3,
+        "title": "Hailey Set",
+        "price": "119.999",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/haileySet.png",
+        "color": "0xFFCFD8DC"
+      },
+      {
+        "id": 4,
+        "title": "Marmer Set",
+        "price": "66.500",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/marmerSet.png",
+        "color": "0xFFE1BEE7"
+      },
+      {
+        "id": 5,
+        "title": "Nakuma Set",
+        "price": "85.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/nakumaSet.png",
+        "color": "0xFFD6D6D6"
+      },
+      {
+        "id": 6,
+        "title": "Pajamas Set",
+        "price": "89.900",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/pajamasSet.png",
+        "color": "0xFF1976D2"
+      },
+      {
+        "id": 7,
+        "title": "Rachelia Set",
+        "price": "153.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/racheliaSet.png",
+        "color": "0xFFC5CAE9"
+      },
+      {
+        "id": 8,
+        "title": "Syafi Set",
+        "price": "75.500",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/syafiSet.png",
+        "color": "0xFFD7CCC8"
+      },
+      {
+        "id": 9,
+        "title": "Tie Dye Set",
+        "price": "35.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/tieDyeSet.png",
+        "color": "0xFFB2EBF2"
+      },
+      {
+        "id": 10,
+        "title": "Zarafa Set",
+        "price": "104.500",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/zarafaSet.png",
+        "color": "0xFF90A4AE"
+      }
+    ],
+    "dress": [
+      {
+        "id": 1,
+        "title": "Hexa Dress",
+        "price": "301.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/hexaDress.png",
+        "color": "0xFFE64A19"
+      },
+      {
+        "id": 2,
+        "title": "Jamilah Dress",
+        "price": "47/000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/jamilahDress.png",
+        "color": "0xFF9E9D24"
+      },
+      {
+        "id": 3,
+        "title": "Korean Lace Dress",
+        "price": "175.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/koreanLaceDress.png",
+        "color": "0xFFFF5252"
+      },
+      {
+        "id": 4,
+        "title": "Long Dress Kerut",
+        "price": "41.900",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/longDressKerut.png",
+        "color": "0xFFBF360C"
+      },
+      {
+        "id": 5,
+        "title": "Maxi Dress",
+        "price": "109.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/maxiDress.png",
+        "color": "0xFF0277BD"
+      },
+      {
+        "id": 6,
+        "title": "Ruffle Dress",
+        "price": "56.700",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/ruffleDress.png",
+        "color": "0xFFBCAAA4"
+      },
+      {
+        "id": 7,
+        "title": "Sabrina Dress",
+        "price": "55.500",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/sabrinaDress.png",
+        "color": "0xFFE57373"
+      },
+      {
+        "id": 8,
+        "title": "Safina Midi Dress",
+        "price": "69.600",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/safinaMidiDress.png",
+        "color": "0xFFD7CCC8"
+      },
+      {
+        "id": 9,
+        "title": "Sanso Dress",
+        "price": "65.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/sansoDress.png",
+        "color": "0xFFF0F4C3"
+      },
+      {
+        "id": 10,
+        "title": "Trisen Dress",
+        "price": "126.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/trisenDress.png",
+        "color": "0xFFFFE57F"
+      },
+      {
+        "id": 11,
+        "title": "Vintage Dress",
+        "price": "165.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/vintageDress.png",
+        "color": "0xFF00897B"
+      },
+      {
+        "id": 12,
+        "title": "Viola Dress",
+        "price": "70.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/violaDress.png",
+        "color": "0xFF9E9E9E"
+      }
+    ],
+    "celana":[
+      {
+        "id": 1,
+        "title": "Baggy Pants",
+        "price": "52.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/baggyPants.png",
+        "color": "0xFFF06292"
+      },
+      {
+        "id": 2,
+        "title": "Boyfriends Jeans Jumbo",
+        "price": "94.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/boyfriendJumbo.png",
+        "color": "0xFFCFD8DC"
+      },
+      {
+        "id": 3,
+        "title": "Cutbray Jeans",
+        "price": "65.800",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/cutbrayJeans.png",
+        "color": "0xFFB3E5FC"
+      },
+      {
+        "id": 4,
+        "title": "Haruka Pants",
+        "price": "47.200",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/harukaPants.png",
+        "color": "0xFFD7CCC8"
+      },
+      {
+        "id": 5,
+        "title": "HW Jeans",
+        "price": "59.500",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/hwJeans.png",
+        "color": "0xFF90CAF9"
+      },
+      {
+        "id": 6,
+        "title": "HW Kulot Jeans",
+        "price": "147.350",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/hwKulotJeans.png",
+        "color": "0xFF78909C"
+      },
+      {
+        "id": 7,
+        "title": "Korduroi Pants",
+        "price": "45.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/korduroiPants.png",
+        "color": "0xFF8D6E63"
+      },
+      {
+        "id": 8,
+        "title": "Kulot Bahan",
+        "price": "64.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/kulot.png",
+        "color": "0xFF795548"
+      },
+      {
+        "id": 9,
+        "title": "Kulot Linen",
+        "price": "98.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/kulotLinen.png",
+        "color": "0xFFA1887F"
+      },
+      {
+        "id": 10,
+        "title": "Legging Soft",
+        "price": "25.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/leggingSoft.png",
+        "color": "0xFFB0BEC5"
+      },
+      {
+        "id": 11,
+        "title": "Loose Jeans",
+        "price": "65.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/looseJeans.png",
+        "color": "0xFF8D6E63"
+      },
+      {
+        "id": 12,
+        "title": "Retro Jeans",
+        "price": "94000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/retroJeans.png",
+        "color": "0xFF546E7A"
+      },
+      {
+        "id": 13,
+        "title": "Tartan Pants",
+        "price": "78.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/tartanPants.png",
+        "color": "0xFF3E2723"
+      },
+      {
+        "id": 14,
+        "title": "Wide Pants",
+        "price": "199.000",
+        "size": 12,
+        "description": "dummyText",
+        "image": "assets/images/widePants.png",
+        "color": "0xFF795548"
+      }
     ]
   }
